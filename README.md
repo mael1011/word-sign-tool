@@ -17,11 +17,9 @@
 
 ## 快速开始
 
-### 方式一：直接用 exe
+### 方式一：直接下载 exe
 
-双击运行 `电子签名工具.exe`（首次启动约 2~5 秒），然后在界面里操作即可。
-
-> exe 未放进仓库（体积较大），请在 [Releases](https://github.com/mael1011/word-sign-tool/releases) 页面下载。
+到 [Releases](https://github.com/mael1011/word-sign-tool/releases) 下载 `SignTool-v1.0.0-win64.exe`（18.5 MB，免安装），双击运行即可（首次启动约 2~5 秒）。
 
 ### 方式二：从源码运行
 
