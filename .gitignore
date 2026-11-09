@@ -1,0 +1,22 @@
+# 打包产物
+*.exe
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 输出与临时文件
+*_已签名.docx
+~$*.docx
+*.log
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
