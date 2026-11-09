@@ -21,7 +21,7 @@
 
 双击运行 `电子签名工具.exe`（首次启动约 2~5 秒），然后在界面里操作即可。
 
-> exe 未放进仓库（体积较大），请在 [Releases](../../releases) 页面下载。
+> exe 未放进仓库（体积较大），请在 [Releases](https://github.com/mael1011/word-sign-tool/releases) 页面下载。
 
 ### 方式二：从源码运行
 
